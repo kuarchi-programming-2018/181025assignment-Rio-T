@@ -2,7 +2,5 @@ from turtle import *
 from rose import *
 hideturtle()
 rose_window_recursion(
-        [[-100,-100],[100,-100],[100,100],[-100,100]],0.1,40)
+        [[-150,-200],[150,-200],[200,200],[-200,200]],0.05,100)
 done()
-
-
